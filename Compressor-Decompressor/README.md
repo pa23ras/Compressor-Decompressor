@@ -1,4 +1,4 @@
-# compressorDecompressor
+# Compressor-Decompressor
 Compressor & Decompressor using Java & Java Swing.
 1. Technology Used
     1. Java
@@ -6,5 +6,5 @@ Compressor & Decompressor using Java & Java Swing.
  2. File I/O Srteam
  3. GZIP I/O Stream
 # Screenshot
-![Screenshot 2023-06-13 173352](https://github.com/drekhate/compressorDecompressor/assets/95485355/a505461e-0e69-4e08-9654-fa16b35cafc6)
-![Screenshot (75)](https://github.com/drekhate/compressorDecompressor/assets/95485355/e3f3636c-1106-4b31-bd08-1c49e096286e)
+![Screenshot (599)](https://github.com/pa23ras/Compressor-Decompressor/assets/121255086/63324c8f-bcf7-4121-937f-9fb10f78e436)
+![Screenshot (600)](https://github.com/pa23ras/Compressor-Decompressor/assets/121255086/d71c685f-ccb6-4661-91c8-1b862aa2d076)
