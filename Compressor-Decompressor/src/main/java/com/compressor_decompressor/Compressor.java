@@ -12,7 +12,7 @@ import java.util.zip.GZIPOutputStream;
 
 /**
  *
- * @author drekh
+ * @author PARAS
  */
 public class Compressor {
     public static void method(File file) throws IOException {
