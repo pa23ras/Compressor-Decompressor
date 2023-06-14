@@ -13,7 +13,7 @@ import java.util.zip.GZIPInputStream;
 
 /**
  *
- * @author drekh
+ * @author PARAS
  */
 public class Decompressor {
     public static void method(File file, String ext) throws FileNotFoundException, IOException {
