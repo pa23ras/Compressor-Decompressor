@@ -6,7 +6,7 @@ package com.mycompany.compressor_decompressor;
 
 /**
  *
- * @author drekh
+ * @author PARAS
  */
 public class COMPRESSOR_DECOMPRESSOR {
 
