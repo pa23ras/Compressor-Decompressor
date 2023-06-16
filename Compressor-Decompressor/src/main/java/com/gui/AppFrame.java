@@ -25,7 +25,7 @@ import com.compressor_decompressor.Decompressor;
 
 /**
  *
- * @author drekh
+ * @author PARAS
  */
 public class AppFrame extends JFrame implements ActionListener {
     JButton compressButton;
