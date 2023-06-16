@@ -9,7 +9,7 @@ import com.gui.AppFrame;
 
 /**
  *
- * @author drekh
+ * @author PARAS
  */
 public class Main {
 
